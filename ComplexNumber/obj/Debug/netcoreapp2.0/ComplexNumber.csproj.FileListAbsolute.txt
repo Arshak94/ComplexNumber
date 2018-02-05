@@ -1,0 +1,11 @@
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/bin/Debug/netcoreapp2.0/ComplexNumber.deps.json
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/bin/Debug/netcoreapp2.0/ComplexNumber.runtimeconfig.json
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/bin/Debug/netcoreapp2.0/ComplexNumber.runtimeconfig.dev.json
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/bin/Debug/netcoreapp2.0/ComplexNumber.dll
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/bin/Debug/netcoreapp2.0/ComplexNumber.pdb
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/obj/Debug/netcoreapp2.0/ComplexNumber.csprojResolveAssemblyReference.cache
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/obj/Debug/netcoreapp2.0/ComplexNumber.csproj.CoreCompileInputs.cache
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/obj/Debug/netcoreapp2.0/ComplexNumber.AssemblyInfoInputs.cache
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/obj/Debug/netcoreapp2.0/ComplexNumber.AssemblyInfo.cs
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/obj/Debug/netcoreapp2.0/ComplexNumber.dll
+/Users/arshaktovmasyan/Developer/visualStudio projects/ComplexNumber/ComplexNumber/obj/Debug/netcoreapp2.0/ComplexNumber.pdb

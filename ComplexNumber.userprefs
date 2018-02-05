@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D7BD5E59-A45E-4723-81E3-BC51B8B65AFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComplexNumber/MyInteger.cs">
+    <Files>
+      <File FileName="ComplexNumber/Program.cs" Line="3" Column="24" />
+      <File FileName="ComplexNumber/ComplexNumber.cs" Line="35" Column="9" />
+      <File FileName="ComplexNumber/MyInteger.cs" Line="6" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ComplexNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
